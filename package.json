@@ -1,0 +1,26 @@
+{
+  "name": "babel-plugin-example",
+  "version": "1.0.0",
+  "description": "babel plugin example",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leftstick/babel-plugin-example.git"
+  },
+  "keywords": [
+    "babel",
+    "plugin"
+  ],
+  "author": "Howard.Zuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leftstick/babel-plugin-example/issues"
+  },
+  "homepage": "https://github.com/leftstick/babel-plugin-example#readme",
+  "dependencies": {
+    "@babel/core": "^7.12.17",
+    "@babel/helper-plugin-utils": "^7.12.13"
+  }
+}
